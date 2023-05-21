@@ -1,4 +1,9 @@
 # GleamingCrowns.github.io
+
+<p align="center">
+  <img src="/assets/img/gleaming-crowns.png" width="250" height="250">
+</p>
+
 Welcome to Gleaming Crowns, a channel dedicated to dentistry, Islam, motivation, beauty, and health. Our goal is to provide informative and engaging content that inspires, educates, and empowers you to lead a healthy and fulfilling life.
 
 You will always find something new to learn about on this channel.
