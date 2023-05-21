@@ -190,3 +190,32 @@ span {
   justify-content: center;
 }
 /*# sourceMappingURL=main.css.map */
+
+@media only screen and (max-width: 600px) {
+  /* CSS rules for mobile screens */
+  .s1 h1 {
+    font-size: 1.5rem;
+  }
+  .s1 .description {
+    font-size: 1.25rem;
+  }
+
+  .s3 .mail {
+    font-size: 0.75rem;
+  }
+
+  .s2 .slide {
+    width: 100%;
+  }
+  .s2 .container {
+    width: 100%;
+  }
+  .s2 .container .card {
+    width: 90%;
+    overflow: hidden;
+  }
+
+  .s2 .container .card iframe {
+    width: 90%;
+  }
+}
